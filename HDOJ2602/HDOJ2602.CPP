@@ -2,7 +2,8 @@
 #include <algorithm>
 #include <string.h>
 using namespace std;
-//HD2602 Unsloved
+//HD2602
+//Unsloved
 
 struct Bone
 {
