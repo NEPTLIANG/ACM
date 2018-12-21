@@ -9,7 +9,7 @@ int main()
     int n , v ;  //n bones, volume of bag
     static int val[1100] , vol[1100] ;  //Value and volume of every bone
     static int max[1100][1100] ;  //Table of maximum result
-    int res ;  //Result of the problem
+    //int res ;  //Result of the problem
     scanf("%d" , &t) ;
     while ( t-- )
     {
