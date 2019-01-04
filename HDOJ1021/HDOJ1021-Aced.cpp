@@ -23,8 +23,8 @@ int main()
             {
                 //if ( res[i] = (res[i-1]+res[i-2])%3 ) { printf("no\n") ; }
                 res.push_back((res[i-1]+res[i-2])%3) ;
-            //if ( res[i] ) { printf("no\n") ; }
-            //else { printf("yes") ; }
+                //if ( res[i] ) { printf("no\n") ; }
+                //else { printf("yes") ; }
             }//for(i)
             end = a ;
         }//if(>)

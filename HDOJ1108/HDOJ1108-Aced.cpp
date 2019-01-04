@@ -8,7 +8,7 @@ int main()
     int a , b ;
     int c , d ;
     int e ;
-    while ( scanf("%d %d" , &a , &b)!=EOF && b )  //?
+    while ( scanf("%d %d" , &a , &b)!=EOF && b )  //&&
     {
         if ( a>b ) { c=a ; d=b ; }
         else { c=b ; d=a ; }
